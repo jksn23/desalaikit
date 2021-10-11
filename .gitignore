@@ -58,3 +58,6 @@ make_obfuscate.php
 cache/*
 vendor/libreoffice/*
 .htaccess
+
+# Local Netlify folder
+.netlify
